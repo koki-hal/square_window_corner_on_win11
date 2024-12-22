@@ -9,3 +9,9 @@ This script makes all toplevel window (maybe) corner from round to square.
 
 This script is valid for Windows 11 build 22000 and later.
 
+
+## Environment
+
+- Windows 11 Pro
+- Python 3.13.0
+
